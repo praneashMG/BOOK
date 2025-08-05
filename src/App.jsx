@@ -9,6 +9,7 @@ import TestimonialsPremiumBlue from "./components/TestimonialsPremiumBlue";
 import AuthorsPremiumBlue from "./components/AuthorsPremiumBlue";
 import OurVerticalsSection from "./components/OurVerticalsSection";
 import ContactUsPremium from "./components/ContactUsPremium";
+import PremiumFooter from "./components/PremiumFooter";
 function App() {
   return (
     <div>
@@ -21,6 +22,7 @@ function App() {
       <AuthorsPremiumBlue/>
       <ContactUsPremium/>
       <OurVerticalsSection/>
+      <PremiumFooter/>
     </div>
   );
 }
