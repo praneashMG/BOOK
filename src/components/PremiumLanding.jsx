@@ -58,7 +58,7 @@ export default function PremiumLanding() {
           >
             <span className="font-extrabold text-white text-2xl select-none">P</span>
           </motion.div>
-          <span className="text-xl font-extrabold tracking-widest text-blue-900 select-none">MYBRAND</span>
+          <span className="text-xl font-extrabold tracking-widest text-blue-900 select-none">hubhawks</span>
         </div>
         <nav className="hidden md:flex space-x-10 text-blue-700 font-semibold">
           <a href="#about" className="hover:text-cyan-700 transition">About</a>
