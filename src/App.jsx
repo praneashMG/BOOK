@@ -7,7 +7,8 @@ import BookTrailersPremium from "./components/BookTrailersPremium";
 import BookCoversSection from "./components/BookCoversSection";
 import TestimonialsPremiumBlue from "./components/TestimonialsPremiumBlue";
 import AuthorsPremiumBlue from "./components/AuthorsPremiumBlue";
-import ConnectWithUsBlue from "./components/ConnectWithUsBlue.JSX";
+import OurVerticalsSection from "./components/OurVerticalsSection";
+import ContactUsPremium from "./components/ContactUsPremium";
 function App() {
   return (
     <div>
@@ -18,7 +19,8 @@ function App() {
       <BookCoversSection/>
       <TestimonialsPremiumBlue />
       <AuthorsPremiumBlue/>
-      <ConnectWithUsBlue/>
+      <ContactUsPremium/>
+      <OurVerticalsSection/>
     </div>
   );
 }
